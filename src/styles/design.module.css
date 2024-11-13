@@ -1,0 +1,75 @@
+*{
+    margin: 1%;
+}
+
+.save_btn{
+    padding: 1%;
+    margin: 3%;
+    width: 10vw;
+    border: none;
+    color: white;
+    font-size: 17px;
+    background-color: rgb(20, 159, 233);
+}
+
+.save_btn:hover{
+    padding: 1%;
+    margin: 3%;
+    width: 10vw;
+    border: 2px solid rgb(20, 159, 233);
+    color: black;
+    font-size: 17px;
+    background-color: white;
+}
+
+.popup_pag{
+    padding: 2%;
+    background-color: aqua;
+}
+
+.text_box{
+    padding: 1%;
+    width: 15vw;
+   
+}
+
+.drop_down{
+    margin: 0%;
+    padding: 1%;
+    width: 15vw;
+}
+
+.add_scheme_btn{
+  display: block;
+    border: none;
+    padding-top: 2%;
+    color: green;
+    font-size: 15px;
+    margin: 0%;
+   
+}
+
+.blue_box{
+   border: 2px solid rgb(43, 145, 234);
+   width: 10vw;
+}
+
+.last_save_btn{
+    padding: 1%;
+   
+    width: 10vw;
+    border: 2px solid rgb(20, 159, 233);
+    color: black;
+    font-size: 17px;
+    background-color: white;
+}
+
+.last_save_btn:hover{
+    padding: 1%;
+   
+    width: 10vw;
+    border: none;
+    color: white;;
+    font-size: 17px;
+    background-color: rgb(20, 159, 233)
+}
